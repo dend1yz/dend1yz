@@ -1,22 +1,33 @@
-
 ![dend1yya](icon.jpg)
-
-# Welcome to my profile!
-## I'm a little coder, who love tea and listing music.
-### Right now i'm learning: JavaScript, PHP, CSS, HTML, C++
+[dend1yya](https://t.me/dend1yya)
+# 👋🏻 Welcome to my profile!
 
 
-<!--
-**dend1yz/dend1yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+👤 dend1yya / Serezha
+🚹 He/Him
+🍏 Age: ???
+📖 Learning: Python, JS, CSS, HTML, C++, PHP, 
+❓ Fun fact: I can't learning this ever.
+```
+___
+## 🖥 My projects
+```
+@jamhostbot - Co-Owner
+@idiotcoders - Module developer
+@AuroraModules - ModuleDeveloper
+```
+___
+### 📌 Social Medias
+[VK](https://vk.com/ayato_godly)
+***
+[Telegram](https://t.me/dend1yya)
+***
+[Telegram Channel](https://t.me/dend1y_blog)
+***
+[Idiotcoders](https://t.me/idiotcoders)
+***
+[AuroraModules](https://t.me/AuroraModules)
+***
+[Jamhost](https://t.me/jamhostbot)
+___

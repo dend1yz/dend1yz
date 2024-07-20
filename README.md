@@ -1,4 +1,8 @@
-## Hi there 👋
+[[!Header](https://github.com/dend1yz/dend1yz/blob/main/icon.jpg)](https://t.me/dend1yya)
+
+# Welcome to my profile!
+## I'm a little coder, who love tea and listing music.
+### Right now i'm learning: JavaScript, PHP, CSS, HTML, C++
 
 <!--
 **dend1yz/dend1yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

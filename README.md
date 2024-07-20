@@ -1,4 +1,4 @@
-[dend1yya](https://github.com/dend1yz/dend1yz/blob/main/icon.jpg)
+
 ![dend1yya](icon.jpg)
 
 # Welcome to my profile!

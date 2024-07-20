@@ -1,4 +1,4 @@
-[[!Header](https://github.com/dend1yz/dend1yz/blob/main/icon.jpg)](https://t.me/dend1yya)
+
 
 # Welcome to my profile!
 ## I'm a little coder, who love tea and listing music.

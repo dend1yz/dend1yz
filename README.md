@@ -1,4 +1,4 @@
-[![Link to my telegram](icon.png)](https://github.com/dend1yz/dend1yz/blob/main/icon.jpg)
+[dend1yya](https://github.com/dend1yz/dend1yz/blob/main/icon.jpg)
 
 # Welcome to my profile!
 ## I'm a little coder, who love tea and listing music.
